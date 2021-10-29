@@ -2,6 +2,8 @@
 
 <img src="https://github.com/g91358677462/Cuffless-Blood-Pressure-Estimation-from-Electrocardiogram-and-Photoplethysmogram-Using-Waveform-Base/blob/main/assets/ANN-LSTM%20Network.PNG" width="100%" height="100%">
 
+Ref: https://www.sciencedirect.com/science/article/abs/pii/S1746809419300722
+
 特徵資料: 6,000位患者的連續心電圖(ECG)和光電容積圖(PBG)。 
 
 估計資料: 每一位患者對應時間的血壓(收縮壓(SBP)舒張壓(DBP))。 
