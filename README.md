@@ -1,6 +1,6 @@
 # Cuffless-Blood-Pressure-Estimation-from-Electrocardiogram-and-Photoplethysmogram-Using-Waveform-Base
 
-<img src="https://github.com/g91358677462/Cuffless-Blood-Pressure-Estimation-from-Electrocardiogram-and-Photoplethysmogram-Using-Waveform-Base/blob/main/assets/ANN-LSTM%20Network.PNG" width="50%" height="50%">
+<img src="https://github.com/g91358677462/Cuffless-Blood-Pressure-Estimation-from-Electrocardiogram-and-Photoplethysmogram-Using-Waveform-Base/blob/main/assets/ANN-LSTM%20Network.PNG" width="100%" height="100%">
 
 特徵資料: 6,000位患者的連續心電圖(ECG)和光電容積圖(PBG)。 
 
